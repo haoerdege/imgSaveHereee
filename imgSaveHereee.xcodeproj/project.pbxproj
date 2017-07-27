@@ -7,27 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7035BA0F1F297D180000213E /* JWDraggableView动态图演示.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7035BA0E1F297D180000213E /* JWDraggableView动态图演示.gif */; };
-		70376CC21F297854000C8F81 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 70376CC11F297854000C8F81 /* main.m */; };
-		70376CC51F297854000C8F81 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 70376CC41F297854000C8F81 /* AppDelegate.m */; };
-		70376CC81F297854000C8F81 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 70376CC71F297854000C8F81 /* ViewController.m */; };
-		70376CCB1F297854000C8F81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70376CC91F297854000C8F81 /* Main.storyboard */; };
-		70376CCD1F297854000C8F81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70376CCC1F297854000C8F81 /* Assets.xcassets */; };
-		70376CD01F297854000C8F81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70376CCE1F297854000C8F81 /* LaunchScreen.storyboard */; };
+		7035BA1C1F2981190000213E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7035BA121F2981190000213E /* AppDelegate.m */; };
+		7035BA1D1F2981190000213E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7035BA131F2981190000213E /* Assets.xcassets */; };
+		7035BA1E1F2981190000213E /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7035BA141F2981190000213E /* Info.plist */; };
+		7035BA1F1F2981190000213E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7035BA151F2981190000213E /* LaunchScreen.storyboard */; };
+		7035BA201F2981190000213E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7035BA161F2981190000213E /* main.m */; };
+		7035BA211F2981190000213E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7035BA171F2981190000213E /* Main.storyboard */; };
+		7035BA221F2981190000213E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7035BA191F2981190000213E /* ViewController.m */; };
+		7035BA231F2981190000213E /* JWDraggableView动态图演示.gif in Resources */ = {isa = PBXBuildFile; fileRef = 7035BA1B1F2981190000213E /* JWDraggableView动态图演示.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7035BA0E1F297D180000213E /* JWDraggableView动态图演示.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "JWDraggableView动态图演示.gif"; sourceTree = "<group>"; };
+		7035BA111F2981190000213E /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		7035BA121F2981190000213E /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		7035BA131F2981190000213E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7035BA141F2981190000213E /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7035BA151F2981190000213E /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7035BA161F2981190000213E /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7035BA171F2981190000213E /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		7035BA181F2981190000213E /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		7035BA191F2981190000213E /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		7035BA1B1F2981190000213E /* JWDraggableView动态图演示.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "JWDraggableView动态图演示.gif"; sourceTree = "<group>"; };
 		70376CBD1F297854000C8F81 /* imgSaveHereee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = imgSaveHereee.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		70376CC11F297854000C8F81 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		70376CC31F297854000C8F81 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		70376CC41F297854000C8F81 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		70376CC61F297854000C8F81 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		70376CC71F297854000C8F81 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		70376CCA1F297854000C8F81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		70376CCC1F297854000C8F81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		70376CCF1F297854000C8F81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		70376CD11F297854000C8F81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7035BA101F2981190000213E /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				7035BA111F2981190000213E /* AppDelegate.h */,
+				7035BA121F2981190000213E /* AppDelegate.m */,
+				7035BA131F2981190000213E /* Assets.xcassets */,
+				7035BA141F2981190000213E /* Info.plist */,
+				7035BA151F2981190000213E /* LaunchScreen.storyboard */,
+				7035BA161F2981190000213E /* main.m */,
+				7035BA171F2981190000213E /* Main.storyboard */,
+				7035BA181F2981190000213E /* ViewController.h */,
+				7035BA191F2981190000213E /* ViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		7035BA1A1F2981190000213E /* img */ = {
+			isa = PBXGroup;
+			children = (
+				7035BA1B1F2981190000213E /* JWDraggableView动态图演示.gif */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
 		70376CB41F297854000C8F81 = {
 			isa = PBXGroup;
 			children = (
@@ -60,26 +85,10 @@
 		70376CBF1F297854000C8F81 /* imgSaveHereee */ = {
 			isa = PBXGroup;
 			children = (
-				70376CC31F297854000C8F81 /* AppDelegate.h */,
-				70376CC41F297854000C8F81 /* AppDelegate.m */,
-				70376CC61F297854000C8F81 /* ViewController.h */,
-				70376CC71F297854000C8F81 /* ViewController.m */,
-				70376CC91F297854000C8F81 /* Main.storyboard */,
-				70376CCC1F297854000C8F81 /* Assets.xcassets */,
-				70376CCE1F297854000C8F81 /* LaunchScreen.storyboard */,
-				70376CD11F297854000C8F81 /* Info.plist */,
-				70376CC01F297854000C8F81 /* Supporting Files */,
+				7035BA101F2981190000213E /* Classes */,
+				7035BA1A1F2981190000213E /* img */,
 			);
 			path = imgSaveHereee;
-			sourceTree = "<group>";
-		};
-		70376CC01F297854000C8F81 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				7035BA0E1F297D180000213E /* JWDraggableView动态图演示.gif */,
-				70376CC11F297854000C8F81 /* main.m */,
-			);
-			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,10 +150,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70376CD01F297854000C8F81 /* LaunchScreen.storyboard in Resources */,
-				70376CCD1F297854000C8F81 /* Assets.xcassets in Resources */,
-				7035BA0F1F297D180000213E /* JWDraggableView动态图演示.gif in Resources */,
-				70376CCB1F297854000C8F81 /* Main.storyboard in Resources */,
+				7035BA1F1F2981190000213E /* LaunchScreen.storyboard in Resources */,
+				7035BA231F2981190000213E /* JWDraggableView动态图演示.gif in Resources */,
+				7035BA1E1F2981190000213E /* Info.plist in Resources */,
+				7035BA1D1F2981190000213E /* Assets.xcassets in Resources */,
+				7035BA211F2981190000213E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,32 +165,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70376CC81F297854000C8F81 /* ViewController.m in Sources */,
-				70376CC51F297854000C8F81 /* AppDelegate.m in Sources */,
-				70376CC21F297854000C8F81 /* main.m in Sources */,
+				7035BA221F2981190000213E /* ViewController.m in Sources */,
+				7035BA201F2981190000213E /* main.m in Sources */,
+				7035BA1C1F2981190000213E /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		70376CC91F297854000C8F81 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				70376CCA1F297854000C8F81 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		70376CCE1F297854000C8F81 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				70376CCF1F297854000C8F81 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		70376CD21F297854000C8F81 /* Debug */ = {
